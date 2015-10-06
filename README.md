@@ -8,6 +8,7 @@ git add .
 git commit -m "added new file called awesome"
 git push
 git checkout -b add-comment-log
+git reset HEAD .
 
 1. working stage (git add .)
 2. staged (ready to commit) (git commit -m)
