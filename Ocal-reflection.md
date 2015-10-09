@@ -24,4 +24,4 @@ I sometimes forget to pull the master before checking out a new branch. More pra
 
 ## How was your first experience of pairing in a GPS?
 
-My first experience of pairing in a GPS was great :smile: It was very productive GPS session. I found her very helpful and she answered all of my questions and explained them clearly
+My first experience of pairing in a GPS was great :smile: It was very productive GPS session. I found her very helpful and she answered all of my questions and explained them clearly.
